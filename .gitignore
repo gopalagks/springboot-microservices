@@ -1,0 +1,19 @@
+# Ignore build directories
+**/target/
+**/build/
+
+# IDE settings
+/.idea/
+/.vscode/
+/*.iml
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Ignore the video folder
+/video/
+
+# Sensitive configuration
+**/application.properties
+**/application.yml
